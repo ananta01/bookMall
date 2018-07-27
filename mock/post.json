@@ -1,0 +1,225 @@
+{
+  "code": 200,
+  "getAllBooksClass": [
+    {
+      "bookclass": [
+        {
+          "className": "计算机馆",
+          "path": "compute",
+          "classBooks": {
+              "0": "编程语言",
+              "1": "办公软件",
+              "2": "计算机安全",
+              "3": "人工智能",
+              "4": "操作系统",
+              "5": "数据库"
+            }
+        },
+        {
+          "className": "文学综合馆",
+          "path": "letter",
+          "classBooks": {
+            "0": "小说",
+            "1": "文学",
+            "2": "传记",
+            "3": "青春",
+            "4": "动漫"
+          }
+        },
+        {
+          "className": "教育馆",
+          "path": "compute",
+          "classBooks": {
+            "0": "中小教辅",
+            "1": "外语学习",
+            "2": "考试教材",
+            "3": "字典词典",
+            "4": "课外读物",
+            "5": "字帖作文"
+          }
+        },
+        {
+          "className": "人文社科馆",
+          "path": "compute",
+          "classBooks": {
+            "0": "政治军事",
+            "1": "传统文化",
+            "2": "历史心理",
+            "3": "哲学宗教",
+            "4": "社会科学"
+          }
+        },
+        {
+          "className": "励志成功馆",
+          "path": "compute",
+          "classBooks": {
+            "0": "女性励志",
+            "1": " 心灵鸡汤",
+            "2": " 社交口才"
+          }
+        },
+        {
+          "className": "艺术馆",
+          "path": "compute",
+          "classBooks": {
+            "0": "绘画",
+            "2": "摄影",
+            "3": "音乐",
+            "4": "设计"
+          }
+        }
+      ]
+    },
+    {
+      "booksTitle": {
+        "title": "全部图书",
+        "path": "/"
+      }
+    }
+  ],
+  "login": {
+    "username": "ananta01",
+    "userId": 123456
+  },
+  "getBooksClass": [
+    {
+      "bookclass": [
+        {
+          "className": "编程语言",
+          "classBooks": {
+            "0": "Java",
+            "1": "Android",
+            "2": "HTML5",
+            "3": "C语言",
+            "4": "C++",
+            "5": "C#",
+            "6": "Tensorflow",
+            "7": "Spring",
+            "8": "Arduino#"
+          }
+        },
+        {
+          "className": "操作系统",
+          "classBooks": {
+            "0": "Linux",
+            "1": "Unix",
+            "2": "Windows"
+          }
+        },
+        {
+          "className": "数据库",
+          "classBooks": {
+            "0": "数据挖掘",
+            "1": "Mysql",
+            "2": "Oracle",
+            "3": "Access",
+            "4": "spark",
+            "5": "SQL语言"
+          }
+        },
+        {
+          "className": "网页制作",
+          "classBooks": {
+            "0": "网页设计",
+            "1": "CSS",
+            "2": "Fireworks"
+          }
+        },
+        {
+          "className": "辅助设计与工程计算",
+          "classBooks": {
+            "0": "AutoCad",
+            "1": " Matlab",
+            "2": " SolidWorks"
+          }
+        },
+        {
+          "className": "图形图像/多媒体",
+          "classBooks": {
+            "0": "Photoshop",
+            "1": "Flash",
+            "2": "premiere",
+            "3": "平面设计",
+            "4": "课件制作"
+          }
+        }
+      ]
+    },
+    {
+      "booksTitle": {
+      "title": "计算机馆",
+      "path": "compute"
+    }
+    }
+  ],
+  "getLetterBooks": [
+    {
+      "bookclass": [
+        {
+          "className": "小说",
+          "classBooks": {
+            "0": "侦探悬疑",
+            "1": "科幻",
+            "2": "官场",
+            "3": "玄幻奇幻",
+            "4": "都市",
+            "5": "外国小说",
+            "6": "社会",
+            "7": "世界名著",
+            "8": "当代小说#"
+          }
+        },
+        {
+          "className": "文学",
+          "classBooks": {
+            "0": "散文随笔",
+            "1": "诗歌词曲",
+            "2": "名家作品",
+            "3": "中国文学",
+            "4": "外国文学",
+            "5": "纪实文学"
+          }
+        },
+        {
+          "className": "青春文学",
+          "classBooks": {
+            "0": "古代言情",
+            "1": "悬疑惊悚",
+            "2": "叛逆成长",
+            "3": "玄幻科幻",
+            "4": "娱乐偶像",
+            "5": "大陆原创"
+          }
+        },
+        {
+          "className": "动漫",
+          "classBooks": {
+            "0": "日本动漫",
+            "1": "大陆动漫",
+            "3": "欧美动漫",
+            "4": "港台动漫",
+            "5": "轻小说",
+            "6": "绘本"
+          }
+        },
+        {
+          "className": "传记",
+          "classBooks": {
+            "0": "财经人物",
+            "1": " 领袖首脑",
+            "2": " 科学家",
+            "3": "历代帝王",
+            "4": "军事人物",
+            "5": "文学家"
+          }
+        }
+      ]
+    },
+    {
+      "booksTitle": {
+        "title": "文学综合馆",
+        "path": "letter"
+      }
+    }
+  ]
+}
